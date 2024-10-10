@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324847429298",
+    "firebase_url": "https://overshoot-409619-default-rtdb.firebaseio.com",
+    "project_id": "overshoot-409619",
+    "storage_bucket": "overshoot-409619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324847429298:android:1b4d7d7dc7c2fac4d24bab",
+        "android_client_info": {
+          "package_name": "com.ThreeSigmaGames.Overshoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324847429298-vekvicbh5lk2njrrgc62b58pu1jf5h9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDoZwiUYi8OuwTLdWkTBvekxKaA3M_Njs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324847429298-vekvicbh5lk2njrrgc62b58pu1jf5h9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
