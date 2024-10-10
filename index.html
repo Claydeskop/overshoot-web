@@ -59,9 +59,9 @@
       var buildUrl = "Build";
       var loaderUrl = buildUrl + "/overshoot.loader.js";
       var config = {
-        dataUrl: buildUrl + "/overshoot.data.gz",
-        frameworkUrl: buildUrl + "/overshoot.framework.js.gz",
-        codeUrl: buildUrl + "/overshoot.wasm.gz",
+        dataUrl: buildUrl + "/overshoot.data",
+        frameworkUrl: buildUrl + "/overshoot.framework.js",
+        codeUrl: buildUrl + "/overshoot.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "ThreeSigmaGames",
         productName: "Overshoot",
@@ -98,7 +98,7 @@
         canvas.style.height = "600px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/overshoot.jpg.gz') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/overshoot.jpg') center / cover";
       loadingBar.style.display = "block";
 
       var script = document.createElement("script");
